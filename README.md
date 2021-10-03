@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PMedina25
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning CSS animations and PWA
+- 👀 I’m interested in web development
+- 🌱 I’m currently mastering web performance with React
 - 💞️ I’m looking to collaborate on any app
 - 📫 How to reach me: https://www.pablo-medina.com/
 
