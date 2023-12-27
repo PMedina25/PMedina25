@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PMedina25
 - 👀 I’m interested in web development
-- 🌱 I’m currently mastering web performance with React
 - 💞️ I’m looking to collaborate on any app
 
 <!---
