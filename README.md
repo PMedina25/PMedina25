@@ -13,7 +13,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a Frontend Developer from Spain.
+I'm a Frontend Engineer from Spain.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :astronaut: Always exploring modern technologies.
